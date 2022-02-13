@@ -7,4 +7,4 @@ to use
 1.run server
 2.run clients
 
-to send message type "/<<username you want to send message to>>><<space>>><<the message>>>"
+to send message type "/username to send the message to" + " " + "message"
